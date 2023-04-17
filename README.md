@@ -19,3 +19,5 @@ normal manner by copying each directory to your ~/.vim directory.  Make sure
 not to overwrite any existing directory of the same name and instead copy only 
 the contents of the source directory to the directory of the same name in your 
 ~/.vim directory.
+
+fin
